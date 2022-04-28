@@ -3316,11 +3316,10 @@ footer a, footer a:visited {
 footer a:hover, footer a:focus {
     color: black;
 }
-}
+
 
 .footer-bottom {
     margin-top: 7.2rem;
-    text-align: center;
 }
 
 .footer-bottom .copyright span {
